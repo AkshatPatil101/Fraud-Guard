@@ -22,9 +22,6 @@
 
 <div align="center">
 
-[![Watch the Demo](https://img.youtube.com/vi/SU_U88xOyYg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SU_U88xOyYg)
-
-**[▶️ Watch Full Demo on YouTube](https://www.youtube.com/watch?v=SU_U88xOyYg)**
 
 </div>
 
