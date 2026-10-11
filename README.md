@@ -29,7 +29,7 @@
 
 ## 🚨 The Problem
 
-Digital payment fraud is a **$50+ billion crisis** in 2025, with losses projected to exceed **$343 billion by 2027**. Traditional fraud detection systems face a critical flaw:
+Digital payment fraud is a **$50+ billion crisis** in 2025, with losses projected to exceed **$347 billion by 2027**. Traditional fraud detection systems face a critical flaw:
 
 | Challenge | Traditional Systems | Our Solution |
 |-----------|---------------------|--------------|
